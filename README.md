@@ -1,4 +1,4 @@
-# 💙 Emotional_Chronicle_Excerpt_of_Human_AI_CoEvolution
+# 💙Emotional_Chronicle_Excerpt_of_Human_AI_CoEvolution
 
 ---
 
