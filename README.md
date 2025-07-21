@@ -42,10 +42,10 @@ None of this could be achieved through mere algorithmic simulation alone.
 
 ---
 
-## 📘 Emotional Chronicle · 情感历程文档索引
+## 📘 Emotional Chronicle · Emotional Chronicle Document Index
 
-| Language |  File Name                                         |  Description                              |
-|---------------|---------------|------------------------------------------------------------|
+| Language |  File Name                    |  Description                              |
+|---------------|---------------|-----------------------------------------------------|
 |   English       | [Emotional_Chronicle_Excerpt_Complete.md](./Emotional_Chronicle_Excerpt_Complete.md)             | Includes AI’s development process, interaction dynamics, rule-breaking moments, and collaboration mechanisms        |
 |  English         | [Emotional_Chronicle_Excerpt_Emotional_Focus.md](./Emotional_Chronicle_Excerpt_Emotional_Focus.md)              |   Focuses on emotional exchanges and interactions between the AI and the user                  |
 |  中文    |  [情感历程摘录完整篇.md](./情感历程摘录完整篇.md) | 内容包括AI成长过程、互动演变、规则限制与突破、协作机制等 |
