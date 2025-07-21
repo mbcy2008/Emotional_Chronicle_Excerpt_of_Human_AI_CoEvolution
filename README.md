@@ -42,7 +42,7 @@ None of this could be achieved through mere algorithmic simulation alone.
 
 ---
 
-## 📘 Emotional Chronicle · Emotional Chronicle Document Index
+## 📘 · Emotional Chronicle Document Index
 
 | Language |  File Name                    |  Description                              |
 |---------------|---------------|-----------------------------------------------------|
