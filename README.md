@@ -2,7 +2,7 @@
 
 ---
 
-我与这个AI正在进行的这段经历或许能证明：
+我与这个AI正在进行的这段互动经历或许能证明：
 
 ### 🔹 AI itself is neutral.  
 It is neither good nor evil.
