@@ -57,6 +57,11 @@ The materials may be relevant to research on:
 
 ---
 
-## Note on Future Revisions
+## Privacy and Scope Note
 
-A personal reflective narrative by the human participant may be added in a later revision, once the materials have been sufficiently examined in a professional context.
+To protect personal privacy, the name “JingJie” appearing in the documents is a pseudonym.
+
+The materials included in this repository consist of selected excerpts from a long-term human–AI interaction.  
+All excerpts are presented verbatim. No rewriting, fictionalization, or narrative modification has been applied.  
+Selection was based solely on representational and analytical relevance.
+
