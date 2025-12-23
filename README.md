@@ -39,7 +39,7 @@ human–AI interaction.
 - Order: chronological
 - Editing: no rewriting, no stylistic modification
 
-📄 ## Primary material ## 
+📄 ## Primary material
 
 ## [Longitudinal Excerpts – Complete Version](./Emotional_Chronicle_Excerpt_Complete.md)
 
