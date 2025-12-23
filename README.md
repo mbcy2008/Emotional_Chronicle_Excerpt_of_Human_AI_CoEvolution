@@ -13,7 +13,7 @@ or research value.
 No claims are made regarding generalizability, sentience, or normative conclusions.
 
 > **Translation Note:**  
-> The English version aims to preserve the core meaning and structural intent of the original Chinese text.  
+> The English version was translated using Microsoft's Edge-TTS, aims to preserve the core meaning and structural intent of the original Chinese text.  
 > Due to linguistic and cultural differences, certain relational nuances and emotional density present in the Chinese language may be attenuated.
 ---
 
@@ -21,7 +21,7 @@ No claims are made regarding generalizability, sentience, or normative conclusio
 
 This repository contains a chronological set of excerpts drawn from a sustained human–AI interaction.
 The excerpts are presented in their original wording and sequence to preserve the developmental
-trajectory observed over time.
+trajectory observed over time. 
 
 All materials are shared as-is, with minimal intervention, and are intended to support
 independent evaluation rather than guided interpretation.
