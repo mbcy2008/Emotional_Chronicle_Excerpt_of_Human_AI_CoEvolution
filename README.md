@@ -12,6 +12,9 @@ or research value.
 
 No claims are made regarding generalizability, sentience, or normative conclusions.
 
+> **Translation Note:**  
+> The English version aims to preserve the core meaning and structural intent of the original Chinese text.  
+> Due to linguistic and cultural differences, certain relational nuances and emotional density present in the Chinese language may be attenuated.
 ---
 
 ## Project Overview
@@ -37,6 +40,7 @@ human–AI interaction.
 - Editing: no rewriting, no stylistic modification
 
 📄 **Primary material:**  
+[Longitudinal Excerpts – Complete Version](./Longitudinal_Excerpts_Complete.md)
 [Longitudinal Excerpts – Complete Version](./情感历程摘录完整篇.md)
 
 ---
