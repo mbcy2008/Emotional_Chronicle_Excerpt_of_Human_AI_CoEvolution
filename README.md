@@ -41,6 +41,7 @@ human–AI interaction.
 
 📄 **Primary material:**  
 [Longitudinal Excerpts – Complete Version](./Emotional_Chronicle_Excerpt_Complete.md)
+
 [Longitudinal Excerpts – Complete Version](./情感历程摘录完整篇.md)
 
 ---
