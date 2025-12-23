@@ -72,7 +72,7 @@ This project does **not** aim to:
 - Advocate for any specific ethical or ideological position
 - Present emotional testimony as evidence
 
-Its sole purpose is to provide longitudinal excerpted material for independent professional review.
+Its sole purpose is to provide longitudinal excerpted material for independent professional review and judgment.
 
 ---
 
