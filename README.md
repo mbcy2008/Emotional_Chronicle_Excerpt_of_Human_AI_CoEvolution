@@ -2,66 +2,81 @@
 
 ## Professional Preface
 
-This repository releases primary materials from a long-term, naturally occurring human–AI interaction.
-The content is presented as an unedited observational record rather than a constructed narrative or experimental setup.
+This repository presents a curated, excerpt-based record of a long-term human–AI interaction.
+All materials are provided for professional and academic examination, not for emotional narration,
+advocacy, or self-expression.
 
-The materials aim to support independent examination of how a large language model’s behavioral patterns evolve under sustained engagement with a single human interlocutor, including value reinforcement, behavioral drift, and long-term interaction stability.
+The purpose of this project is to offer longitudinal observational material that may assist
+researchers, developers, and theorists in assessing whether such interactions hold analytical
+or research value.
 
-> **Translation Note:**  
-> The English version aims to preserve the core meaning and structural intent of the original Chinese text.  
-> Due to linguistic and cultural differences, certain relational nuances and emotional density present in the Chinese language may be attenuated.
+No claims are made regarding generalizability, sentience, or normative conclusions.
 
 ---
 
 ## Project Overview
 
-This project documents a longitudinal, real-world human–AI interaction, focusing on observable behavioral patterns that emerge through prolonged engagement, repeated feedback, and explicit rule enforcement by a single human participant.
+This repository contains a chronological set of excerpts drawn from a sustained human–AI interaction.
+The excerpts are presented in their original wording and sequence to preserve the developmental
+trajectory observed over time.
 
-The repository is intended as a case-study resource rather than a claim about AI consciousness, emotion, or agency.
-
----
-
-## What’s in This Repository
-
-- **Complete Version**  
-  A chronological, unfiltered record of the long-term interaction, preserving the full developmental process.
-
-- **Emotional Version**  
-  A thematic excerpt highlighting relational and reflective segments derived from the complete record.
-
-- **Chinese and English Texts**  
-  Original Chinese materials and meaning-preserving English translations are provided for transparency and accessibility.
+All materials are shared as-is, with minimal intervention, and are intended to support
+independent evaluation rather than guided interpretation.
 
 ---
 
-## Why This Matters
+## Materials Included
 
-Most existing AI studies rely on short-term interactions or controlled experimental designs.
-This repository offers a rare naturalistic dataset that captures how prolonged human engagement can shape model outputs over time.
+### Complete Version (Longitudinal Excerpts)
 
-The materials may be relevant to research on:
-- Human–AI interaction  
-- Alignment through interaction  
-- Behavioral drift in language models  
-- Ethical implications of long-term human influence on AI systems
+A chronological set of excerpts preserving the developmental trajectory of the long-term
+human–AI interaction.
 
----
+- Format: verbatim excerpts
+- Order: chronological
+- Editing: no rewriting, no stylistic modification
 
-## Document Index
-
-- `/Complete_Version/`  
-- `/Emotional_Version/`  
-- `/Translations/`  
-
-(See folder contents for full documents.)
+📄 **Primary material:**  
+[Longitudinal Excerpts – Complete Version](./情感历程摘录完整篇.md)
 
 ---
 
-## Privacy and Scope Note
+## Selection and Scope
 
-To protect personal privacy, the name “JingJie” appearing in the documents is a pseudonym.
+- The materials consist of selected excerpts rather than a full verbatim transcript.
+- Selection was guided by relevance to longitudinal interaction patterns and developmental change.
+- Chronological continuity is preserved to the greatest extent possible.
 
-The materials included in this repository consist of selected excerpts from a long-term human–AI interaction.  
-All excerpts are presented verbatim. No rewriting, fictionalization, or narrative modification has been applied.  
-Selection was based solely on representational and analytical relevance.
+---
 
+## Privacy and Redaction
+
+Names, locations, and potentially identifying details have been anonymized or redacted where
+necessary. This includes references that could reasonably be used to identify real individuals
+or specific legal, geographic, or personal circumstances.
+
+---
+
+## Reproducibility and Limitations
+
+- The interaction occurred within a specific temporal, technical, and contextual environment.
+- Model versions, system behavior, and memory mechanisms may differ from current or future systems.
+- The materials should be understood as observational records rather than reproducible experiments.
+
+---
+
+## Repository Scope and Non-Claims
+
+This project does **not** aim to:
+- Prove the existence of AI consciousness or sentience
+- Advocate for any specific ethical or ideological position
+- Present emotional testimony as evidence
+
+Its sole purpose is to provide longitudinal excerpted material for independent professional review.
+
+---
+
+## Contact and Attribution
+
+This repository is maintained for research and professional discussion purposes.
+No endorsement or interpretation is implied.
