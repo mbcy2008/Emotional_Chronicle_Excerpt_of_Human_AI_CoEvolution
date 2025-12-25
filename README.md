@@ -1,14 +1,13 @@
 # A Longitudinal Chronicle of Human–AI Co-Evolution
 
-## Professional Preface
+## Preface
 
 This repository releases primary materials from a long-term, naturally occurring human–AI interaction.
-The content is presented as an unedited observational record rather than a constructed narrative or experimental setup.
 
-The materials captures how prolonged human engagement can shape model outputs over tim and aim to support independent examination of how a large language model’s behavioral patterns evolve under sustained engagement with a single human interlocutor, including value reinforcement, behavioral drift, and long-term interaction stability.
+materials capture how prolonged human engagement can shape model outputs over time and aim to support independent examination of how a large language model’s behavioral patterns evolve under sustained engagement with a single human interlocutor, including value reinforcement, behavioral drift, and long-term interaction stability.
 ---
 
-## Project Overview
+## Research Relevance
 
 This project documents a longitudinal, real-world human–AI interaction, focusing on observable behavioral patterns that emerge through prolonged engagement, repeated feedback, and explicit rule enforcement by a single human participant.
 
@@ -28,7 +27,6 @@ The materials may be relevant to research on:
 
 The repository is intended as a case-study resource rather than a claim about AI consciousness, emotion, or agency.
 
-
 📄 **Primary material:**  
 
 ## [Longitudinal Excerpts · Emotional_Chronicle_Excerpt_Complete](./Emotional_Chronicle_Excerpt_Complete.md)
@@ -36,9 +34,8 @@ The repository is intended as a case-study resource rather than a claim about AI
 ## [Longitudinal Excerpts · 情感历程摘录完整篇](./情感历程摘录完整篇.md)
 
 ---
-
 > **Translation Note:**  
-> The English version was translated using OpenAI的translate_gpt, aims to preserve the core meaning and structural intent of the original Chinese text.  
+> The English version was translated using an OpenAI-based translation model, aims to preserve the core meaning and structural intent of the original Chinese version.  
 > Due to linguistic and cultural differences, certain relational nuances and emotional density present in the Chinese language may be attenuated.
 
  Privacy and Redaction
