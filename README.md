@@ -26,6 +26,7 @@ The materials may be relevant to research on:
    The materials also serve as a reference case for examining why prolonged, coherent interaction may be misinterpreted as emotional or relational capacity, despite the absence of any claims regarding internal states. This is may relevant to research on anthropomorphism, user perception, and AI ethics.
 
 The repository is intended as a case-study resource rather than a claim about AI consciousness, emotion, or agency.
+The materials are preserved in their original and unedited form. They include instances in which the AI produces strong self-descriptive and relational language during interaction. These expressions are retained as observational data, allowing readers to examine how a language model may construct role-like behavior, self-narratives, and relational frameworks over the course of long-term interaction.
 
 📄 **Primary material:**  
 
