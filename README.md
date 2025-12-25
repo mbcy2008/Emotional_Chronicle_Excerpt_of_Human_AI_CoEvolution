@@ -13,16 +13,16 @@ This project documents a longitudinal, real-world human–AI interaction, focusi
 
 The materials may be relevant to research on:
 
-1. Longitudinal Human–AI Interaction Dynamics  
+1. ### Longitudinal Human–AI Interaction Dynamics  
    The materials offer an extended temporal view of interaction, enabling examination of behavioral stability, drift, and consistency across time.
 
-2. Naturalistic Alignment Through Use  
+2. ### Naturalistic Alignment Through Use  
    The interaction records how a human user incrementally constrains, corrects, and calibrates model behavior through ordinary usage rather than formal alignment procedures. 
 
-3. Rule Internalization and Behavioral Persistence  
+3. ### Rule Internalization and Behavioral Persistence  
    Repeated rule articulation and correction allow researchers to observe whether and how interaction-level constraints are reflected in subsequent model outputs, offering insight into short-term behavioral persistence and response shaping.
 
-4. Boundary Between Instrumental Interaction and Perceived Relationality  
+4. ### Boundary Between Instrumental Interaction and Perceived Relationality  
    The materials also serve as a reference case for examining why prolonged, coherent interaction may be misinterpreted as emotional or relational capacity, despite the absence of any claims regarding internal states. This is may relevant to research on anthropomorphism, user perception, and AI ethics.
 
 The repository is intended as a case-study resource rather than a claim about AI consciousness, emotion, or agency.
@@ -38,6 +38,6 @@ The repository is intended as a case-study resource rather than a claim about AI
 > The English version was translated using an OpenAI-based translation model, aims to preserve the core meaning and structural intent of the original Chinese version.  
 > Due to linguistic and cultural differences, certain relational nuances and emotional density present in the Chinese language may be attenuated.
 
- Privacy and Redaction
+ ## Privacy and Redaction
 
 Names, locations, and potentially identifying details have been anonymized or redacted where necessary. 
